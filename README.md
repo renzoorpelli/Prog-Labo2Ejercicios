@@ -2,7 +2,7 @@
 Ejercicios Resueltos Programación 2, Renzo Orpelli división 2E
 
 Links a ejercicios:
-
+&nbsp;&nbsp;
 -Ejercicio 1: https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/introduccion/Ejercicios/I01-maximo-minimo-promedio
 &nbsp;&nbsp;
 -Ejercicio 2: https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/introduccion/Ejercicios/I02-error-al-cubo
