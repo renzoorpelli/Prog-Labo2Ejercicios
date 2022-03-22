@@ -1,6 +1,6 @@
 # Prog-Labo2Ejercicios
 Ejercicios Resueltos Programación 2, Renzo Orpelli división 2E
-
+&nbsp;&nbsp;
 Links a ejercicios:
 &nbsp;&nbsp;
 -Ejercicio 1: https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/introduccion/Ejercicios/I01-maximo-minimo-promedio
