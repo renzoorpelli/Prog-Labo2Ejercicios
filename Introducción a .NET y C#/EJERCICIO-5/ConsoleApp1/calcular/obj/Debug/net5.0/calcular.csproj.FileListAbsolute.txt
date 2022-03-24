@@ -1,0 +1,12 @@
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\EJERCICIO-5\ConsoleApp1\calcular\bin\Debug\net5.0\calcular.deps.json
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\EJERCICIO-5\ConsoleApp1\calcular\bin\Debug\net5.0\calcular.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\EJERCICIO-5\ConsoleApp1\calcular\bin\Debug\net5.0\calcular.pdb
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\EJERCICIO-5\ConsoleApp1\calcular\obj\Debug\net5.0\calcular.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\EJERCICIO-5\ConsoleApp1\calcular\obj\Debug\net5.0\calcular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\EJERCICIO-5\ConsoleApp1\calcular\obj\Debug\net5.0\calcular.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\EJERCICIO-5\ConsoleApp1\calcular\obj\Debug\net5.0\calcular.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\EJERCICIO-5\ConsoleApp1\calcular\obj\Debug\net5.0\calcular.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\EJERCICIO-5\ConsoleApp1\calcular\obj\Debug\net5.0\calcular.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\EJERCICIO-5\ConsoleApp1\calcular\obj\Debug\net5.0\refint\calcular.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\EJERCICIO-5\ConsoleApp1\calcular\obj\Debug\net5.0\calcular.pdb
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\EJERCICIO-5\ConsoleApp1\calcular\obj\Debug\net5.0\ref\calcular.dll
