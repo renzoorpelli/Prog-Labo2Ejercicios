@@ -18,4 +18,4 @@ Programación orientada a objetos:
 
 Sobrecargas:
 &nbsp;&nbsp; 
-<a href="hhttps://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/sobrecarga/Ejercicios/I01-sumador/"> -Ejercicios</a>    
+<a href="https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/sobrecarga/Ejercicios/I01-sumador/"> -Ejercicios</a>    
