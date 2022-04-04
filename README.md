@@ -14,6 +14,6 @@ Programación orientada a objetos:
 <a href="https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/objetos/Ejercicios/I01-creo-que-necesito-un-prestamo/">Ejercicios</a>
 &nbsp;&nbsp;
 
-Sobrecargas:
+Sobrecarga:
 <a href="https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/docs/clases/sobrecarga/Ejercicios/I01-sumador/">Ejercicios</a>    
 &nbsp;&nbsp;
