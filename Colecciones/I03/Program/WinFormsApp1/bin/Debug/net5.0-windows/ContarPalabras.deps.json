@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ContarPalabras/1.0.0": {
+        "runtime": {
+          "ContarPalabras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContarPalabras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
