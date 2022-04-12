@@ -1,0 +1,24 @@
+C:\Users\renzo\Documents\programacion\Guia de ejercicios Clases y metodos\i03\i03\Conversor\bin\Debug\net5.0\Conversor.deps.json
+C:\Users\renzo\Documents\programacion\Guia de ejercicios Clases y metodos\i03\i03\Conversor\bin\Debug\net5.0\Conversor.dll
+C:\Users\renzo\Documents\programacion\Guia de ejercicios Clases y metodos\i03\i03\Conversor\bin\Debug\net5.0\Conversor.pdb
+C:\Users\renzo\Documents\programacion\Guia de ejercicios Clases y metodos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Guia de ejercicios Clases y metodos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Guia de ejercicios Clases y metodos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Guia de ejercicios Clases y metodos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Guia de ejercicios Clases y metodos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Guia de ejercicios Clases y metodos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.dll
+C:\Users\renzo\Documents\programacion\Guia de ejercicios Clases y metodos\i03\i03\Conversor\obj\Debug\net5.0\refint\Conversor.dll
+C:\Users\renzo\Documents\programacion\Guia de ejercicios Clases y metodos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.pdb
+C:\Users\renzo\Documents\programacion\Guia de ejercicios Clases y metodos\i03\i03\Conversor\obj\Debug\net5.0\ref\Conversor.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\Prog-Labo2Ejercicios\Clases y métodos estáticos\i03\i03\Conversor\bin\Debug\net5.0\Conversor.deps.json
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\Prog-Labo2Ejercicios\Clases y métodos estáticos\i03\i03\Conversor\bin\Debug\net5.0\Conversor.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\Prog-Labo2Ejercicios\Clases y métodos estáticos\i03\i03\Conversor\bin\Debug\net5.0\Conversor.pdb
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\Prog-Labo2Ejercicios\Clases y métodos estáticos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\Prog-Labo2Ejercicios\Clases y métodos estáticos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\Prog-Labo2Ejercicios\Clases y métodos estáticos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\Prog-Labo2Ejercicios\Clases y métodos estáticos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\Prog-Labo2Ejercicios\Clases y métodos estáticos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\Prog-Labo2Ejercicios\Clases y métodos estáticos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\Prog-Labo2Ejercicios\Clases y métodos estáticos\i03\i03\Conversor\obj\Debug\net5.0\refint\Conversor.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\Prog-Labo2Ejercicios\Clases y métodos estáticos\i03\i03\Conversor\obj\Debug\net5.0\Conversor.pdb
+C:\Users\renzo\Documents\programacion\Guia ejercicios\Prog-Labo2Ejercicios\Prog-Labo2Ejercicios\Clases y métodos estáticos\i03\i03\Conversor\obj\Debug\net5.0\ref\Conversor.dll

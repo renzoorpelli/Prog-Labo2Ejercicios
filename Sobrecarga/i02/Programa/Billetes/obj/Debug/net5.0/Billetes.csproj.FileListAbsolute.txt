@@ -1,0 +1,12 @@
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Sobrecarga\i02\Programa\Billetes\bin\Debug\net5.0\Billetes.deps.json
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Sobrecarga\i02\Programa\Billetes\bin\Debug\net5.0\Billetes.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Sobrecarga\i02\Programa\Billetes\bin\Debug\net5.0\Billetes.pdb
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Sobrecarga\i02\Programa\Billetes\obj\Debug\net5.0\Billetes.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Sobrecarga\i02\Programa\Billetes\obj\Debug\net5.0\Billetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Sobrecarga\i02\Programa\Billetes\obj\Debug\net5.0\Billetes.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Sobrecarga\i02\Programa\Billetes\obj\Debug\net5.0\Billetes.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Sobrecarga\i02\Programa\Billetes\obj\Debug\net5.0\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Sobrecarga\i02\Programa\Billetes\obj\Debug\net5.0\Billetes.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Sobrecarga\i02\Programa\Billetes\obj\Debug\net5.0\refint\Billetes.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Sobrecarga\i02\Programa\Billetes\obj\Debug\net5.0\Billetes.pdb
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Sobrecarga\i02\Programa\Billetes\obj\Debug\net5.0\ref\Billetes.dll

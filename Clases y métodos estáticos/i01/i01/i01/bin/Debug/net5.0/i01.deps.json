@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "i01/1.0.0": {
+        "dependencies": {
+          "Validador": "1.0.0"
+        },
+        "runtime": {
+          "i01.dll": {}
+        }
+      },
+      "Validador/1.0.0": {
+        "runtime": {
+          "Validador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "i01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Validador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
