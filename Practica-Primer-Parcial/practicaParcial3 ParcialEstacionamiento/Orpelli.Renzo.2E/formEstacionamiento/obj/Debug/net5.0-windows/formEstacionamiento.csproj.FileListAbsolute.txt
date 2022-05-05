@@ -1,0 +1,42 @@
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\formEstacionamiento.exe
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\formEstacionamiento.deps.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\formEstacionamiento.runtimeconfig.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\formEstacionamiento.runtimeconfig.dev.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\formEstacionamiento.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\formEstacionamiento.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.frmEstacionamiento.resources
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.csproj.GenerateResource.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.csproj.CopyComplete
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\refint\formEstacionamiento.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.genruntimeconfig.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\ref\formEstacionamiento.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\formEstacionamiento.exe
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\formEstacionamiento.deps.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\formEstacionamiento.runtimeconfig.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\formEstacionamiento.runtimeconfig.dev.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\formEstacionamiento.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\formEstacionamiento.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.frmEstacionamiento.resources
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.csproj.GenerateResource.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.csproj.CopyComplete
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\refint\formEstacionamiento.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\formEstacionamiento.genruntimeconfig.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial3 ParcialEstacionamiento\Orpelli.Renzo.2E\formEstacionamiento\obj\Debug\net5.0-windows\ref\formEstacionamiento.dll

@@ -1,0 +1,38 @@
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\bin\Debug\net5.0\Program.exe
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\bin\Debug\net5.0\Program.deps.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\bin\Debug\net5.0\Program.runtimeconfig.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\bin\Debug\net5.0\Program.runtimeconfig.dev.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\bin\Debug\net5.0\Program.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\bin\Debug\net5.0\Program.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\bin\Debug\net5.0\Entidades.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\bin\Debug\net5.0\Entidades.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\obj\Debug\net5.0\Program.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\obj\Debug\net5.0\Program.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\obj\Debug\net5.0\Program.csproj.CopyComplete
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\obj\Debug\net5.0\Program.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\obj\Debug\net5.0\refint\Program.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\obj\Debug\net5.0\Program.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\obj\Debug\net5.0\Program.genruntimeconfig.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4\Entidades\Program\obj\Debug\net5.0\ref\Program.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\bin\Debug\net5.0\Program.exe
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\bin\Debug\net5.0\Program.deps.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\bin\Debug\net5.0\Program.runtimeconfig.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\bin\Debug\net5.0\Program.runtimeconfig.dev.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\bin\Debug\net5.0\Program.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\bin\Debug\net5.0\Program.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\bin\Debug\net5.0\Entidades.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\bin\Debug\net5.0\Entidades.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\obj\Debug\net5.0\Program.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\obj\Debug\net5.0\Program.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\obj\Debug\net5.0\Program.csproj.CopyComplete
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\obj\Debug\net5.0\Program.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\obj\Debug\net5.0\refint\Program.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\obj\Debug\net5.0\Program.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\obj\Debug\net5.0\Program.genruntimeconfig.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial4 ParcialBiblioteca\Entidades\Program\obj\Debug\net5.0\ref\Program.dll

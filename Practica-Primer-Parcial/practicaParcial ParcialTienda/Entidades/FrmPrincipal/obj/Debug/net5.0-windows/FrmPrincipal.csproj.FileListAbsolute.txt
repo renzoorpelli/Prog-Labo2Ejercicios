@@ -1,0 +1,42 @@
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\FrmPrincipal.exe
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\FrmPrincipal.deps.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\FrmPrincipal.runtimeconfig.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\FrmPrincipal.runtimeconfig.dev.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\FrmPrincipal.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\FrmPrincipal.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.Form1.resources
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\refint\FrmPrincipal.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.genruntimeconfig.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\ref\FrmPrincipal.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.csproj.CopyComplete
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\FrmPrincipal.exe
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\FrmPrincipal.deps.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\FrmPrincipal.runtimeconfig.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\FrmPrincipal.runtimeconfig.dev.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\FrmPrincipal.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\FrmPrincipal.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.Form1.resources
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.csproj.CopyComplete
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\refint\FrmPrincipal.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\FrmPrincipal.genruntimeconfig.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial ParcialTienda\Entidades\FrmPrincipal\obj\Debug\net5.0-windows\ref\FrmPrincipal.dll

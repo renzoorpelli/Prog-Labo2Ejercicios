@@ -1,0 +1,42 @@
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\bin\Debug\net5.0-windows\UIGomeria.exe
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\bin\Debug\net5.0-windows\UIGomeria.deps.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\bin\Debug\net5.0-windows\UIGomeria.runtimeconfig.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\bin\Debug\net5.0-windows\UIGomeria.runtimeconfig.dev.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\bin\Debug\net5.0-windows\UIGomeria.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\bin\Debug\net5.0-windows\UIGomeria.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.FrmGomeria.resources
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.csproj.GenerateResource.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.csproj.CopyComplete
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\obj\Debug\net5.0-windows\refint\UIGomeria.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.genruntimeconfig.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2\Entidades\UIGomeria\obj\Debug\net5.0-windows\ref\UIGomeria.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\bin\Debug\net5.0-windows\UIGomeria.exe
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\bin\Debug\net5.0-windows\UIGomeria.deps.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\bin\Debug\net5.0-windows\UIGomeria.runtimeconfig.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\bin\Debug\net5.0-windows\UIGomeria.runtimeconfig.dev.json
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\bin\Debug\net5.0-windows\UIGomeria.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\bin\Debug\net5.0-windows\UIGomeria.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.FrmGomeria.resources
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.csproj.GenerateResource.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.csproj.CopyComplete
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\obj\Debug\net5.0-windows\refint\UIGomeria.dll
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.pdb
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\obj\Debug\net5.0-windows\UIGomeria.genruntimeconfig.cache
+C:\Users\renzo\Documents\programacion\Parciales\practicaParcial2 ParcialGomeria\Entidades\UIGomeria\obj\Debug\net5.0-windows\ref\UIGomeria.dll
