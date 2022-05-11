@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PruebasUnitarias.GestionImpuestosTest" Collapsed="true">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>GestionImpuestosTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PruebasUnitarias.PaqueteFragilTest" Collapsed="true">
+    <Position X="13.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAAAAAAE=</HashCode>
+      <FileName>PaqueteFragilTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PruebasUnitarias.PaquetePesadoTest" Collapsed="true">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAACAAAAAAAAAAAAACAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>PaquetePesadoTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
