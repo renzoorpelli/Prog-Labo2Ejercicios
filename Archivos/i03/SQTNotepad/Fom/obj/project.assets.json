@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "i03/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/i03.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/i03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "i03/1.0.0": {
+      "type": "project",
+      "path": "../i03/i03.csproj",
+      "msbuildProject": "../i03/i03.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "i03 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\renzo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\renzo\\Documents\\programacion\\Guia ejercicios\\copia ejercicios\\Archivos\\i03\\SQTNotepad\\Fom\\Fom.csproj",
+      "projectName": "Fom",
+      "projectPath": "C:\\Users\\renzo\\Documents\\programacion\\Guia ejercicios\\copia ejercicios\\Archivos\\i03\\SQTNotepad\\Fom\\Fom.csproj",
+      "packagesPath": "C:\\Users\\renzo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\renzo\\Documents\\programacion\\Guia ejercicios\\copia ejercicios\\Archivos\\i03\\SQTNotepad\\Fom\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\renzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\renzo\\Documents\\programacion\\Guia ejercicios\\copia ejercicios\\Archivos\\i03\\SQTNotepad\\i03\\i03.csproj": {
+              "projectPath": "C:\\Users\\renzo\\Documents\\programacion\\Guia ejercicios\\copia ejercicios\\Archivos\\i03\\SQTNotepad\\i03\\i03.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Archivos\i03\SQTNotepad\i03\bin\Debug\net5.0\i03.deps.json
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Archivos\i03\SQTNotepad\i03\bin\Debug\net5.0\i03.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Archivos\i03\SQTNotepad\i03\bin\Debug\net5.0\i03.pdb
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Archivos\i03\SQTNotepad\i03\obj\Debug\net5.0\i03.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Archivos\i03\SQTNotepad\i03\obj\Debug\net5.0\i03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Archivos\i03\SQTNotepad\i03\obj\Debug\net5.0\i03.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Archivos\i03\SQTNotepad\i03\obj\Debug\net5.0\i03.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Archivos\i03\SQTNotepad\i03\obj\Debug\net5.0\i03.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Archivos\i03\SQTNotepad\i03\obj\Debug\net5.0\i03.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Archivos\i03\SQTNotepad\i03\obj\Debug\net5.0\refint\i03.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Archivos\i03\SQTNotepad\i03\obj\Debug\net5.0\i03.pdb
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Archivos\i03\SQTNotepad\i03\obj\Debug\net5.0\ref\i03.dll

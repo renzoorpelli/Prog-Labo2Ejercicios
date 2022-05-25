@@ -1,0 +1,12 @@
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\C01\SQTNotepad\IO\bin\Debug\net5.0\IO.deps.json
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\C01\SQTNotepad\IO\bin\Debug\net5.0\IO.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\C01\SQTNotepad\IO\bin\Debug\net5.0\IO.pdb
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\C01\SQTNotepad\IO\obj\Debug\net5.0\IO.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\C01\SQTNotepad\IO\obj\Debug\net5.0\IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\C01\SQTNotepad\IO\obj\Debug\net5.0\IO.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\C01\SQTNotepad\IO\obj\Debug\net5.0\IO.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\C01\SQTNotepad\IO\obj\Debug\net5.0\IO.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\C01\SQTNotepad\IO\obj\Debug\net5.0\IO.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\C01\SQTNotepad\IO\obj\Debug\net5.0\refint\IO.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\C01\SQTNotepad\IO\obj\Debug\net5.0\IO.pdb
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\C01\SQTNotepad\IO\obj\Debug\net5.0\ref\IO.dll

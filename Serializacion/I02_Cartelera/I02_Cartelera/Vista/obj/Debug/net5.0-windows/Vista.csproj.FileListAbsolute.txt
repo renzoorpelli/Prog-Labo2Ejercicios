@@ -1,0 +1,36 @@
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\bin\Debug\net5.0-windows\Vista.exe
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\bin\Debug\net5.0-windows\Vista.deps.json
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\bin\Debug\net5.0-windows\Vista.dll
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\bin\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\bin\Debug\net5.0-windows\Vista.pdb
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\obj\Debug\net5.0-windows\Vista.FrmCartelera.resources
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\obj\Debug\net5.0-windows\Vista.dll
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\obj\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\obj\Debug\net5.0-windows\Vista.pdb
+C:\Users\mauri\source\repos\I04-Cartelera\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\bin\Debug\net5.0-windows\Vista.exe
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\bin\Debug\net5.0-windows\Vista.deps.json
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\bin\Debug\net5.0-windows\Vista.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\bin\Debug\net5.0-windows\Vista.pdb
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\obj\Debug\net5.0-windows\Vista.FrmCartelera.resources
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\obj\Debug\net5.0-windows\Vista.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\obj\Debug\net5.0-windows\refint\Vista.dll
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\obj\Debug\net5.0-windows\Vista.pdb
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+C:\Users\renzo\Documents\programacion\Guia ejercicios\copia ejercicios\Serializacion\I02_Cartelera\I02_Cartelera\Vista\obj\Debug\net5.0-windows\ref\Vista.dll

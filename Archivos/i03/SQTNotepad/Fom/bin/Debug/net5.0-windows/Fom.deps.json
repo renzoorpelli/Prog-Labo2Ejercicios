@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Fom/1.0.0": {
+        "dependencies": {
+          "i03": "1.0.0"
+        },
+        "runtime": {
+          "Fom.dll": {}
+        }
+      },
+      "i03/1.0.0": {
+        "runtime": {
+          "i03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "i03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
