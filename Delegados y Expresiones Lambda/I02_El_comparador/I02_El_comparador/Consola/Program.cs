@@ -30,7 +30,7 @@ namespace Consola
             Comparar(primerTexto, segundoTexto, (x, y) => x.Length - y.Length);
             Console.WriteLine($"{NewLine}2da Comparación - Texto con más palabras:");
             // Punto 3
-            Comparar(primerTexto, segundoTexto, (x, y) => x.Split(' ', StringSplitOptions.RemoveEmptyEntries).Length - y.Split(' ',StringSplitOptions.RemoveEmptyEntries).Length);
+            Comparar(primerTexto, segundoTexto, (x, y) => x.Split(' ', StringSplitOptions.TrimEntries).Length - y.Split(' ',StringSplitOptions.TrimEntries).Length);
             Console.WriteLine($"{NewLine}3era Comparación - Texto con más vocales:");
             // Punto 4
             Comparar(primerTexto, segundoTexto, (x, y) => ContarVocales(x) - ContarVocales(y));
